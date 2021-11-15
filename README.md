@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @roquesistemas, lawyer and eternal student;
+- 👀 I’m interested in learn more about programming em practicing english;
+- 🌱 I’m currently learning C++
